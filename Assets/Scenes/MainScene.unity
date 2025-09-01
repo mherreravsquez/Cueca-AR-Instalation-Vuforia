@@ -173,6 +173,44 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 90960717}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &90960721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 90960715}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 90960717}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Stand_1
+  mDatasetName: 
+  mCastedBehaviour: {fileID: 90960717}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &90960722
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 90960715}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 90960717}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Stand_1
+  mDatasetName: 
+  mCastedBehaviour: {fileID: 90960717}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1 &121781396 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 9075922909791594610, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
@@ -512,6 +550,44 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 121781398}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &121781417
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 121781396}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 121781398}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Stand_2
+  mDatasetName: 
+  mCastedBehaviour: {fileID: 121781398}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &121781418
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 121781396}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 121781398}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Stand_2
+  mDatasetName: 
+  mCastedBehaviour: {fileID: 121781398}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1001 &178576719
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -520,6 +596,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1406753250097348739, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2972587904384746433, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -564,6 +644,10 @@ PrefabInstance:
       propertyPath: mRuntimeTexture
       value: 
       objectReference: {fileID: 2800000, guid: 3e848b9d139fad246ac38187bc452dc0, type: 3}
+    - target: {fileID: 7190386757899726989, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 6c8f60f0738e6204b9368279c9b0b502, type: 3}
     - target: {fileID: 9075922909791594610, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
       propertyPath: m_Name
       value: ImageTarget Stand_3
@@ -624,6 +708,12 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 9075922909791594610, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1115091928}
+    - targetCorrespondingSourceObject: {fileID: 9075922909791594610, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1115091930}
+    - targetCorrespondingSourceObject: {fileID: 9075922909791594610, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1115091929}
   m_SourcePrefab: {fileID: 100100000, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
 --- !u!1 &261064148 stripped
 GameObject:
@@ -1056,6 +1146,44 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 294286873}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &294286892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 294286871}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 294286873}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Stand_5
+  mDatasetName: 
+  mCastedBehaviour: {fileID: 294286873}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &294286893
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 294286871}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 294286873}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Stand_5
+  mDatasetName: 
+  mCastedBehaviour: {fileID: 294286873}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1001 &441301004
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1064,6 +1192,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1406753250097348739, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2972587904384746433, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -1128,6 +1260,10 @@ PrefabInstance:
       propertyPath: mRuntimeTexture
       value: 
       objectReference: {fileID: 2800000, guid: e7ce858d5c6f6014d9392cd5d6c0c34f, type: 3}
+    - target: {fileID: 7190386757899726989, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 38b29981589a21a418a76a41d573f2b9, type: 3}
     - target: {fileID: 9075922909791594610, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
       propertyPath: m_Name
       value: ImageTarget Final
@@ -1158,6 +1294,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1406753250097348739, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2972587904384746433, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -1202,6 +1342,10 @@ PrefabInstance:
       propertyPath: mRuntimeTexture
       value: 
       objectReference: {fileID: 2800000, guid: a198586910da6b54db033dba860a4379, type: 3}
+    - target: {fileID: 7190386757899726989, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 575797d0bdebe0a478bcbf18fa5963c2, type: 3}
     - target: {fileID: 9075922909791594610, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
       propertyPath: m_Name
       value: ImageTarget Stand_2
@@ -1262,6 +1406,12 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 9075922909791594610, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
       insertIndex: -1
       addedObject: {fileID: 121781416}
+    - targetCorrespondingSourceObject: {fileID: 9075922909791594610, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 121781418}
+    - targetCorrespondingSourceObject: {fileID: 9075922909791594610, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 121781417}
   m_SourcePrefab: {fileID: 100100000, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
 --- !u!1001 &1014783698
 PrefabInstance:
@@ -1271,6 +1421,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1406753250097348739, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2972587904384746433, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -1315,6 +1469,10 @@ PrefabInstance:
       propertyPath: mRuntimeTexture
       value: 
       objectReference: {fileID: 2800000, guid: 6969216b4fc1fa74aa32eedc6314f691, type: 3}
+    - target: {fileID: 7190386757899726989, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: bad2093516892704c8d7eb33f09f8f29, type: 3}
     - target: {fileID: 9075922909791594610, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
       propertyPath: m_Name
       value: ImageTarget Stand_4
@@ -1375,6 +1533,12 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 9075922909791594610, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1191490649}
+    - targetCorrespondingSourceObject: {fileID: 9075922909791594610, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1191490651}
+    - targetCorrespondingSourceObject: {fileID: 9075922909791594610, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1191490650}
   m_SourcePrefab: {fileID: 100100000, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
 --- !u!1 &1115091908 stripped
 GameObject:
@@ -1697,6 +1861,44 @@ MonoBehaviour:
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
 --- !u!114 &1115091928
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1115091908}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1115091910}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Stand_3
+  mDatasetName: 
+  mCastedBehaviour: {fileID: 1115091910}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1115091929
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1115091908}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1115091910}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Stand_3
+  mDatasetName: 
+  mCastedBehaviour: {fileID: 1115091910}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1115091930
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2054,6 +2256,44 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1191490631}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1191490650
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1191490629}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1191490631}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Stand_4
+  mDatasetName: 
+  mCastedBehaviour: {fileID: 1191490631}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1191490651
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1191490629}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1191490631}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Stand_4
+  mDatasetName: 
+  mCastedBehaviour: {fileID: 1191490631}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1 &1457847714
 GameObject:
   m_ObjectHideFlags: 0
@@ -2189,6 +2429,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1406753250097348739, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2972587904384746433, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -2233,6 +2477,10 @@ PrefabInstance:
       propertyPath: mRuntimeTexture
       value: 
       objectReference: {fileID: 2800000, guid: 867f1e9beb7490e4ea1e9d1abf2f3a83, type: 3}
+    - target: {fileID: 7190386757899726989, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 0773df46272268d4abddbac9dd01d914, type: 3}
     - target: {fileID: 9075922909791594610, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
       propertyPath: m_Name
       value: ImageTarget Stand_1
@@ -2247,6 +2495,12 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 9075922909791594610, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
       insertIndex: -1
       addedObject: {fileID: 90960720}
+    - targetCorrespondingSourceObject: {fileID: 9075922909791594610, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 90960722}
+    - targetCorrespondingSourceObject: {fileID: 9075922909791594610, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 90960721}
   m_SourcePrefab: {fileID: 100100000, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
 --- !u!1 &1667587068
 GameObject:
@@ -2537,6 +2791,12 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 9075922909791594610, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
       insertIndex: -1
       addedObject: {fileID: 294286891}
+    - targetCorrespondingSourceObject: {fileID: 9075922909791594610, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 294286893}
+    - targetCorrespondingSourceObject: {fileID: 9075922909791594610, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 294286892}
   m_SourcePrefab: {fileID: 100100000, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
 --- !u!1001 &1390909593654701588
 PrefabInstance:
@@ -2586,6 +2846,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7190386757899726989, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 0773df46272268d4abddbac9dd01d914, type: 3}
     - target: {fileID: 8954287602525257568, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
       propertyPath: mHiddenRoot
       value: 
@@ -2609,8 +2873,68 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 9075922909791594610, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1390909593654701592}
+    - targetCorrespondingSourceObject: {fileID: 9075922909791594610, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1390909593654701591}
   m_SourcePrefab: {fileID: 100100000, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
+--- !u!1 &1390909593654701589 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9075922909791594610, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
+  m_PrefabInstance: {fileID: 1390909593654701588}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1390909593654701590 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4967273873753393938, guid: 837dd02c653465b43a3d9c453398d280, type: 3}
+  m_PrefabInstance: {fileID: 1390909593654701588}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1390909593654701589}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1631628248, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetBehaviour
+--- !u!114 &1390909593654701591
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1390909593654701589}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1390909593654701590}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: TestImage
+  mDatasetName: 
+  mCastedBehaviour: {fileID: 1390909593654701590}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1390909593654701592
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1390909593654701589}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1390909593654701590}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: TestImage
+  mDatasetName: 
+  mCastedBehaviour: {fileID: 1390909593654701590}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
