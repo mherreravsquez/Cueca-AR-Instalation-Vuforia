@@ -465,8 +465,8 @@ MonoBehaviour:
   mDataSetPath: 
   mAspectRatio: 1
   mImageTargetType: 3
-  mWidth: 0.1
-  mHeight: 0.1
+  mWidth: 0.05
+  mHeight: 0.05
   mRuntimeTexture: {fileID: 2800000, guid: 07a06560b712cb045b5fddfd30e0799f, type: 3}
   mMotionHint: 1
   mTrackingOptimization: 0
