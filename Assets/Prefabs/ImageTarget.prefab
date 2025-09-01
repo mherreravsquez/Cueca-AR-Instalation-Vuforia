@@ -15,7 +15,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &8222646555710901478
 Transform:
   m_ObjectHideFlags: 0
@@ -25,7 +25,7 @@ Transform:
   m_GameObject: {fileID: 1406753250097348739}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.70710707, z: -0, w: 0.70710653}
-  m_LocalPosition: {x: 0, y: 0.1, z: 0}
+  m_LocalPosition: {x: 0, y: 0.02, z: 0}
   m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
   m_ConstrainProportionsScale: 1
   m_Children:
@@ -275,8 +275,8 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 3796387148133491582}
   - {fileID: 846760871361014229}
@@ -466,8 +466,8 @@ MonoBehaviour:
   mDataSetPath: 
   mAspectRatio: 1
   mImageTargetType: 3
-  mWidth: 0.2
-  mHeight: 0.2
+  mWidth: 0.05
+  mHeight: 0.05
   mRuntimeTexture: {fileID: 2800000, guid: 07a06560b712cb045b5fddfd30e0799f, type: 3}
   mMotionHint: 1
   mTrackingOptimization: 0
