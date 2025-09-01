@@ -1026,7 +1026,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!1 &1406753249918787020
 GameObject:
   m_ObjectHideFlags: 0
@@ -1042,7 +1042,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!1 &1406753250162981308
 GameObject:
   m_ObjectHideFlags: 0
@@ -1074,7 +1074,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!1 &1406753250827042390
 GameObject:
   m_ObjectHideFlags: 0
@@ -1090,7 +1090,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!1 &1406753251312983160
 GameObject:
   m_ObjectHideFlags: 0
@@ -1106,7 +1106,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1463199140202733989
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2574,14 +2574,14 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: TestImage2
+  mTrackableName: Stand_2
   mInitializedInEditor: 1
   mDataSetPath: 
-  mAspectRatio: 1.3333333
+  mAspectRatio: 1
   mImageTargetType: 3
-  mWidth: 0.0375
+  mWidth: 0.05
   mHeight: 0.05
-  mRuntimeTexture: {fileID: 2800000, guid: 780940c0ddcf5664ca85339a8c4106b7, type: 3}
+  mRuntimeTexture: {fileID: 2800000, guid: a198586910da6b54db033dba860a4379, type: 3}
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
@@ -4143,7 +4143,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &9075922908592354442
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4181,7 +4181,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &9075922908910655144
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4234,7 +4234,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
   mObserverBehaviour: {fileID: 4967273873417220653}
   mHiddenRoot: {fileID: 0}
-  mTargetName: TestImage2
+  mTargetName: Stand_2
   mDatasetName: 
   mCastedBehaviour: {fileID: 4967273873417220653}
   mMeshFilter: {fileID: 0}
@@ -4257,7 +4257,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &9075922909881562429
 GameObject:
   m_ObjectHideFlags: 0
@@ -4276,7 +4276,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &9075922909881562430
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4314,7 +4314,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &9075922910120081057
 MonoBehaviour:
   m_ObjectHideFlags: 0
