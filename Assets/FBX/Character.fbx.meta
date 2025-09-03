@@ -3,17 +3,7 @@ guid: 2b6b76f7a30255a4aabed3a82d074059
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: m_Photo
-    second: {fileID: 2100000, guid: 33c4044ceb134ab4388feccec9ca7b7d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: m_Stick
-    second: {fileID: 2100000, guid: 4c7d85fda9672af4187e3ae94e58f8a8, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -43,7 +33,7 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 0.075
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -101,7 +91,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
+    globalScale: 0.00075
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
