@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
-    <ImageTarget name="cueca" size="1.000000 0.199492" />
-    <ImageTarget name="stand_5" size="1.000000 1.000000" />
+    <ImageTarget name="stand_5" size="1.000000 0.500000" />
+    <ImageTarget name="stand_6" size="1.000000 1.513776" />
     <ImageTarget name="stand_4" size="1.000000 1.000000" />
     <ImageTarget name="stand_3" size="1.000000 1.000000" />
     <ImageTarget name="stand_2" size="1.000000 1.000000" />
