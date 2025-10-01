@@ -14,7 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.VuforiaConfiguration
   vuforia:
 <<<<<<< HEAD
+<<<<<<< HEAD
     vuforiaLicenseKey: AbKqu/X/////AAABmRkBMzkjgkhooQHqvI7cmJVjVsj+4x3AzU38UWJxp3LCXhYQoGsbwTjEuxMtmgWG3EO+geHKQiF4nYlYGgWd1NA7dNhQO/OsGI9UzW1qqrmnV6XIOTb2UOmXg3itJix3tzL+2BFqh2Sz1WbPL5+Mt+eKC71JNq8bBlXiFaLid6QudrOCcDPlXkr8p2xsE0c2GuSxOiQofluo+gEuGmFjpGNNHIADJiLi2IyLjWaF7RUX3WlsTiy99UQs5zL3VFl8LOQRcQ5F/VPeSAmxdHzCLYMBwzJlfz2ZrhDbO5h9RyvaEWoOLj1y0cVhAGiP9GbNuwUmHCrki6r6Ud2fVfiEvdoqnkuAbeOBUioYyi1u0lsr
+=======
+    vuforiaLicenseKey: Adqp3BT/////AAABmfpN1Og+sk7bkZp7RuOHOfA1dgPGLosHv8pLTwmUjyr00b5qDaVKupiJUiK7cTi6+osyu7irXMukTTB7og6Csk7ZuJVciGL/VURIT0H7mR6jF31wHIhhNu1vNohw4v7JiBtd3ELus3ZCXION13hmiq/hHwHa8vokAepneqN84zw293oHAdEfuiamoZD1riYj8bvT3z8f5MYzFlzfRTcO6Rap0SXnZszEqzhTGgjyUoxaqlkkLOaXgRpv+DArZWaKE0zdD8f9oqGH7fHUNqFkhfMsLAvwI5RPLZIBgpcqzN+KWveiyiDbHf7CM5f9mptlj/GbvkQpJZB9SXD/w4CCkk3NdkApqs6zVKInZzTy3S08
+>>>>>>> parent of 5dbbc66 (Revert "si")
 =======
     vuforiaLicenseKey: Adqp3BT/////AAABmfpN1Og+sk7bkZp7RuOHOfA1dgPGLosHv8pLTwmUjyr00b5qDaVKupiJUiK7cTi6+osyu7irXMukTTB7og6Csk7ZuJVciGL/VURIT0H7mR6jF31wHIhhNu1vNohw4v7JiBtd3ELus3ZCXION13hmiq/hHwHa8vokAepneqN84zw293oHAdEfuiamoZD1riYj8bvT3z8f5MYzFlzfRTcO6Rap0SXnZszEqzhTGgjyUoxaqlkkLOaXgRpv+DArZWaKE0zdD8f9oqGH7fHUNqFkhfMsLAvwI5RPLZIBgpcqzN+KWveiyiDbHf7CM5f9mptlj/GbvkQpJZB9SXD/w4CCkk3NdkApqs6zVKInZzTy3S08
 >>>>>>> parent of 5dbbc66 (Revert "si")
