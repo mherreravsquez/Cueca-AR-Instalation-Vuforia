@@ -13,24 +13,12 @@ MonoBehaviour:
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.VuforiaConfiguration
   vuforia:
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
     vuforiaLicenseKey: AbKqu/X/////AAABmRkBMzkjgkhooQHqvI7cmJVjVsj+4x3AzU38UWJxp3LCXhYQoGsbwTjEuxMtmgWG3EO+geHKQiF4nYlYGgWd1NA7dNhQO/OsGI9UzW1qqrmnV6XIOTb2UOmXg3itJix3tzL+2BFqh2Sz1WbPL5+Mt+eKC71JNq8bBlXiFaLid6QudrOCcDPlXkr8p2xsE0c2GuSxOiQofluo+gEuGmFjpGNNHIADJiLi2IyLjWaF7RUX3WlsTiy99UQs5zL3VFl8LOQRcQ5F/VPeSAmxdHzCLYMBwzJlfz2ZrhDbO5h9RyvaEWoOLj1y0cVhAGiP9GbNuwUmHCrki6r6Ud2fVfiEvdoqnkuAbeOBUioYyi1u0lsr
-=======
-    vuforiaLicenseKey: Adqp3BT/////AAABmfpN1Og+sk7bkZp7RuOHOfA1dgPGLosHv8pLTwmUjyr00b5qDaVKupiJUiK7cTi6+osyu7irXMukTTB7og6Csk7ZuJVciGL/VURIT0H7mR6jF31wHIhhNu1vNohw4v7JiBtd3ELus3ZCXION13hmiq/hHwHa8vokAepneqN84zw293oHAdEfuiamoZD1riYj8bvT3z8f5MYzFlzfRTcO6Rap0SXnZszEqzhTGgjyUoxaqlkkLOaXgRpv+DArZWaKE0zdD8f9oqGH7fHUNqFkhfMsLAvwI5RPLZIBgpcqzN+KWveiyiDbHf7CM5f9mptlj/GbvkQpJZB9SXD/w4CCkk3NdkApqs6zVKInZzTy3S08
->>>>>>> parent of 5dbbc66 (Revert "si")
-=======
-    vuforiaLicenseKey: Adqp3BT/////AAABmfpN1Og+sk7bkZp7RuOHOfA1dgPGLosHv8pLTwmUjyr00b5qDaVKupiJUiK7cTi6+osyu7irXMukTTB7og6Csk7ZuJVciGL/VURIT0H7mR6jF31wHIhhNu1vNohw4v7JiBtd3ELus3ZCXION13hmiq/hHwHa8vokAepneqN84zw293oHAdEfuiamoZD1riYj8bvT3z8f5MYzFlzfRTcO6Rap0SXnZszEqzhTGgjyUoxaqlkkLOaXgRpv+DArZWaKE0zdD8f9oqGH7fHUNqFkhfMsLAvwI5RPLZIBgpcqzN+KWveiyiDbHf7CM5f9mptlj/GbvkQpJZB9SXD/w4CCkk3NdkApqs6zVKInZzTy3S08
->>>>>>> parent of 5dbbc66 (Revert "si")
-=======
-    vuforiaLicenseKey: AatEMDn/////AAABmezs2BqgCE+gsO2JknMaUaoSW4snqZM+6vjglTKNny/ui6ndbQxjNCO5k7tUVpj6PXIs4rfArV9d/krV10w288L0Ssi8WHDO7p/dRu52ai7bWe+atmNtPD+zdMQV5yztb2h0+QH0SmNfQQHAFhpmKhufxsPtQ9EqPUtHAG33PZFcde97x0GeKnkFEYeAgpNjlfDNumBIgmrlZ9k+etuV2DYz43Zq3P3U39bpssWKTLBKEO1k0DsFSM+SDNTrQTgy3baSiXJw5pLLCFmH/j59mgFrvDlwu1lYPhKMYwH8IX57ttFhdWG/+C1HNySXhFypXvrK9VWpGsY8vzZYHkC0jvZMVwymRT4OLxy21AZfsiSA
->>>>>>> parent of 856cc85 (Revert "BORRALO DESPUES")
-    ufoLicenseKey: QVQzOVUyNy8vLy8vQUFBQUtQVnlVenF2VDBKRGtEcVZsK1AwWW4xVEF2T3VGd3ZSbVBid1d0bnJjWmRaV0FQSU94L0IwWVZuWE1STWpGNkRrTEdZa0NUYTdFSUpHQ3QxTXpqWnlIb01meGQ5L3g5Vm9NbFJVbjNTL0gxSGQxNE1GY3ZEc0JDbndPay9yQ0VDNDdNQ05PN2ZYY3hlSTh2OW0vMjJML0VHaGxYaWZib05IbFRHWmcyTEM5eEUyRzBIZVJ1MUFPcTZSOXJWRk1tYk9tZXVvRDBkbVhhZ1lqOXB2OVplSlJjb1UyakVNdTAxUUtYUWpvcWF6cWhLY2RLcC9zeUdwTEhoVDdDNk9SYk1DVFZTOXdkYmlLTTM4Z3dJOERoUXZpWUs1bVord1QxQlh6U1V1dlJIaDhydjlKZ0JoVWtsMG45V09BaEtRMm1LRjg5QlVxTlQxa3AyeTlwK0ZXT3g3YlBNODg2eG9UT0w2K01uSWJTOE9pTEg=
+    ufoLicenseKey: QVhiM0Y1Ly8vLy8vQUFBQUtPbnFIeHJFSGs1N3VrMlg4U050eVBzK2pkOFZxMDhrazlwYjBsYS9aZUIxQlV1ckZWcWt0ZllSQWpnT2tIRlY2VzdOMDRTRjNYRUhmbTF5L1BnYlB4eWdHWEF6RUNheXowc3dyNVNYa2ozdERuRjhka1FpOHRscHdkMDcrcEJEY1FjTjNJcUM1bEgwOTYzQkdZdjRsQStRb0hSQU9nRGthelp5TlY0WHVwWU9EaE05NWw5bXAzbnBDMjM5MWZBWXBFdEdiL2loTDNab3N4b25ZblhjK1JtSS9wLzRoTDIwVGhmTXR6WFJNYkpUTXZLZzJoQ0N0TEJXNEptZ0pSOUtSdStzQWM3QjVNOWFFMGVHQ1dUT1VRSUUweEpiZC9ZL2cvS29iNDhBRXdQOGFwbWR5NmRWU0FHU2psVzRZY2FEU2Zud3J1ZHhucVNmSUZiajNTUnIzM0lKVlFIaW1rL0oyOGNFeDdyekcySXg=
     delayedInitialization: 0
     cameraFocusModeSetting: 2
     cameraDeviceModeSetting: -1
-    maxSimultaneousImageTargets: 2
+    maxSimultaneousImageTargets: 1
     virtualSceneScaleFactor: 1
     modelTargetRecoWhileExtendedTracked: 1
     shareRecordingsInITunes: 0
@@ -55,7 +43,7 @@ MonoBehaviour:
   deviceTracker:
     autoStartTracker: 1
     arcoreRequirement: 1
-    autoImportArcore: 0
+    autoImportArcore: 1
     thirdPartyARCoreClientDetected: 0
   playmode:
     mRecordingPath: 
